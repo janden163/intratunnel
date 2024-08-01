@@ -1,0 +1,4 @@
+{
+    "server_addr": "your-server-ip:8080",
+    "local_addr": "localhost:80"
+}

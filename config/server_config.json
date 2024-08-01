@@ -1,0 +1,5 @@
+{
+    "listen_addr": ":8080",
+    "tls_cert": "certs/cert.pem",
+    "tls_key": "certs/key.pem"
+}
